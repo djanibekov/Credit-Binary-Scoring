@@ -1,0 +1,13 @@
+numpy~=1.20.1
+setuptools~=54.0.0
+pandas~=1.2.3
+scikit-learn~=0.24.1
+matplotlib~=3.3.4
+seaborn~=0.11.1
+statsmodels~=0.12.2
+fastapi~=0.63.0
+starlette==0.14.2
+loguru~=0.5.3
+jinja2~=2.11.3
+aiofiles~=0.6.0
+python-dotenv~=0.15.0
